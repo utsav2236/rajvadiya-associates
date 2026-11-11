@@ -149,7 +149,7 @@ export default function Footer() {
                     href="tel:+919000000000"
                     className="hover:text-white transition-colors duration-200"
                   >
-                    +91 90000 00000
+                    +91 93135 72688
                   </a>
                 </li>
                 <li className="flex items-start gap-3">
@@ -163,7 +163,7 @@ export default function Footer() {
                     rel="noopener noreferrer"
                     className="hover:text-white transition-colors duration-200"
                   >
-                    [WhatsApp Number]
+                    +91 93135 72688
                   </a>
                 </li>
                 <li className="flex items-start gap-3">
@@ -175,7 +175,7 @@ export default function Footer() {
                     href="mailto:info@rajvadiyaassociates.com"
                     className="hover:text-white transition-colors duration-200 break-all"
                   >
-                    [Business Email Address]
+                    rajvadiyaassociates@gmail.com
                   </a>
                 </li>
               </ul>
